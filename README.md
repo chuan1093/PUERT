@@ -2,7 +2,7 @@
 
 This repository is for PUERT introduced in the following paper
 
-Jingfen Xie, [Jian Zhang](http://jianzhang.tech/), Yongbing Zhang and Xiangyang Ji. PUERT: Probabilistic Under-sampling and Explicable Reconstruction Network for CS-MRI. IEEE Journal of Selected Topics in Signal Processing. 
+Jingfen Xie, [Jian Zhang](http://jianzhang.tech/), Yongbing Zhang and Xiangyang Ji. PUERT: Probabilistic Under-sampling and Explicable Reconstruction Network for CS-MRI. IEEE Journal of Selected Topics in Signal Processing. [PDF](https://ieeexplore.ieee.org/document/9764377)
 
 The code is built on **PyTorch** and tested on Ubuntu 18.04 environment (Python 3.6.9, PyTorch 1.4.0) with NVIDIA Tesla V100 GPU.
 
